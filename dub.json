@@ -3,6 +3,7 @@
 	"description": "ported from java",
 	"copyright": "Copyright © 2016, Stefan Hertenberger",
 	"authors": ["Stefan Hertenberger"],
+	"license": "Apache License, Version 2.0",
 	"dependencies": {
 	}
 }
