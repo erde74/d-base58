@@ -1,8 +1,8 @@
 {
 	"name": "d-base58",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2016, stefan",
-	"authors": ["stefan"],
+	"description": "ported from java",
+	"copyright": "Copyright © 2016, Stefan Hertenberger",
+	"authors": ["Stefan Hertenberger"],
 	"dependencies": {
 	}
 }
